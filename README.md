@@ -1,6 +1,6 @@
 # Oddball Quality Assurance Challenge
 ## Tasks
-1. Check out this repository.
+1. Clone this repository to your machine.
 1. Analyze the user stories available in this repository, and create a test plan that provides coverage for the acceptence criteria described within the user stories. You will use a combination of manual functional test cases and automated tests to verify the acceptence criteria.
 1. Create an automated end-to-end test that covers the core user journey per your analysis of the user stories.
 1. Use the Cypress-->TestRail integration to record automated e2e test executions to your test plan.
