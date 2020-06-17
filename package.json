@@ -4,10 +4,11 @@
   "description": "A technical challenge for QA interview candidates with Oddball.",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^4.8.0",
     "cypress-testrail-reporter": "^1.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cypress": "^4.8.0"
+  },
   "scripts": {
     "test": "mocha"
   },
