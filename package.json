@@ -1,0 +1,24 @@
+{
+  "name": "qa-challenge",
+  "version": "1.0.0",
+  "description": "A technical challenge for QA interview candidates with Oddball.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.8.0",
+    "cypress-testrail-reporter": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddballteam/qa-challenge.git"
+  },
+  "author": "Peter Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oddballteam/qa-challenge/issues"
+  },
+  "homepage": "https://github.com/oddballteam/qa-challenge#readme"
+}
