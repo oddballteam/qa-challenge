@@ -1,1 +1,10 @@
-{}
+{
+"baseUrl": "http://localhost:8080",
+"reporter": "cypress-testrail-reporter",
+"reporterOptions": {
+  "domain": "yourdomain.testrail.com",
+  "username": "username",
+  "password": "password",
+  "projectId": 1,
+  "suiteId": 1,
+}
