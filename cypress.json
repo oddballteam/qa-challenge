@@ -6,5 +6,6 @@
   "username": "username",
   "password": "password",
   "projectId": 1,
-  "suiteId": 1,
+  "suiteId": 1
+  }  
 }
