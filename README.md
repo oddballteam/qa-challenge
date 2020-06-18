@@ -20,7 +20,7 @@
 ## Artifacts
 At the completion of the challenge you will deliver the following artifacts.
 1. Test Plan
+1. Automated End-to-end Test Case(s)
 1. Test Execution Records
 1. Summary of Defects Report
 1. Coverage for References Report
-1. Automated End-to-end Test Case
