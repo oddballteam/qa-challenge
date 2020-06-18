@@ -1,4 +1,9 @@
 # Oddball Quality Assurance Challenge
+## Prerequisites
+1. Shell of your choice
+1. [Node.js / NPM](https://www.npmjs.com/get-npm)
+1. *Preferred:* [GitHub account](https://github.com/join)
+
 ## Tasks
 1. Clone this repository to your machine.
 1. Analyze the user stories available in this repository, and create a test plan that provides coverage for the acceptence criteria described within the user stories. You will use a combination of manual functional test cases and automated tests to verify the acceptence criteria.
