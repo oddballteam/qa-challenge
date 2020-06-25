@@ -1,10 +1,10 @@
 {
-"baseUrl": "http://localhost:8080",
+"baseUrl": "https://oddball-fitness.herokuapp.com/",
 "reporter": "cypress-testrail-reporter",
 "reporterOptions": {
-  "domain": "yourdomain.testrail.com",
-  "username": "username",
-  "password": "password",
+  "domain": "https://oddballcedar.testrail.io",
+  "username": "peter.hill+candidate@oddball.io",
+  "password": "KVq3tTM1.Ej2eQNyQnhF-lCX.NCbfwYwoV1l5a3Q2",
   "projectId": 1,
   "suiteId": 1
   }  
