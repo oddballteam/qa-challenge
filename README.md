@@ -1,15 +1,17 @@
 # Oddball Quality Assurance Challenge
 ## Prerequisites
 1. Shell of your choice
-1. [Node.js / NPM](https://www.npmjs.com/get-npm)
+1. [Node.js / NPM](https://www.npmjs.com/get-npm)\
+1. Access to [Fitness Challenge App](https://oddball-fitness.herokuapp.com/)
 1. *Preferred:* [GitHub account](https://github.com/join)
 
 ## Tasks
 1. Clone this repository to your machine.
 1. Analyze the user stories available in this repository, and create a test plan that provides coverage for the acceptence criteria described within the user stories. You will use a combination of manual functional test cases and automated tests to verify the acceptence criteria.
+1. Execute tests against -- https://oddball-fitness.herokuapp.com/
 1. Create an automated end-to-end test that covers the core user journey per your analysis of the user stories.
 1. Use the Cypress-->TestRail integration to record automated e2e test executions to your test plan.
-1. Generate a reports within TestRail that provide
+1. Generate reports within TestRail that provide
    *  A summary of all defects discovered by your test executions
    *  A report displaying traceability of user stories to test cases
 
