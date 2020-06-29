@@ -1,0 +1,12 @@
+# How to run Cypress from Windows 10 + WSL
+1. [Install Node.js](https://nodejs.org/en/)
+1. [Install XMing](http://www.straightrunning.com/XmingNotes/)
+1. Disabled Windows firewall (sigh, it appears to interfere with the network interface from WSL distro connecting to XMing)
+*TBD opening a specific port should also work*
+1. From Windows run XLaunch
+  1. Click through the wizard with defaults except for:
+    * Select the checkbox for "Disable access control"
+1. Open WSL
+1. Navigate to directory where you cloned this repo
+1. `npm install`
+1. `npx cypress open`
