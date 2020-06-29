@@ -5,6 +5,11 @@
 1. Access to [Fitness Challenge App](https://oddball-fitness.herokuapp.com/)
 1. *Preferred:* [GitHub account](https://github.com/join)
 
+## Run Cypress in --
+1. [Windows](cypress-run-windows.md)
+2. [Linux](cypress-run-linux.md)
+3. [macOS](cypress-run-macos.md)
+
 ## Tasks
 1. Clone this repository to your machine.
 1. Analyze the user stories available in this repository, and create a test plan that provides coverage for the acceptence criteria described within the user stories. You will use a combination of manual functional test cases and automated tests to verify the acceptence criteria.
